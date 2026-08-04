@@ -1,6 +1,6 @@
-# LokalChoice Support
+# Dropp Support
 
-Welcome to LokalChoice! We're here to help you get the most out of the app.
+Welcome to Dropp! We're here to help you get the most out of the app.
 
 ## Getting Started
 
@@ -24,9 +24,29 @@ After scanning, you'll see:
 - Category information
 
 ### Find Local Alternatives
-- Tap "Find Alternatives" on any product result
-- Select your home country
-- Browse locally-made alternatives in the same category
+- Scan a flagged product to see the best local swap directly below its verdict
+- Free accounts see the top replacement; Dropp Plus shows the full ranked list
+- Tap **Save swap** to keep a replacement in **You → Saved swaps**
+
+### Search Without a Barcode
+- Open **Scan**
+- Tap **Search products or brands** below the scanner
+- Free accounts include 3 successful searches each week
+
+### Cart Audit
+- Open **Scan** and tap the cart button beside product search
+- Start a cart, then scan products normally to add them
+- The free cart includes up to 5 unique products
+
+### Ownership Briefs
+- Open **You → Dropp Plus → Ownership Briefs** to read the available ownership context
+- Briefs explain what is known and where the information came from; they are not push alerts
+
+### Movements
+- Open **Movements** and activate the purchasing rules you want Dropp to apply
+- Each movement states the exact scan rule it changes; Dropp does not show
+  unverified or gameable global member counts
+- **Back local makers** and **Back Nordic makers** also improve replacement ranking
 
 ### Scan History
 - All your scans are saved automatically
@@ -34,14 +54,18 @@ After scanning, you'll see:
 - Tap any item to view details again
 - Swipe to delete items you don't need
 
-### Premium Features
-LokalChoice Premium provides unlimited monthly scans. Free users have a limited number of scans per month.
+### Dropp Plus
+Search and cart audit are available directly from **Scan**. Open **You → Dropp Plus**
+only for the membership overview and the tools that belong there. Plus unlocks
+unlimited product search, full replacement lists, unlimited carts, saved swaps,
+ownership briefs, offline replacements and household sharing. Free accounts include
+3 searches each week, one 5-item cart and one saved swap.
 
 ## Troubleshooting
 
 ### Camera Issues
 **Problem**: Camera won't scan barcodes
-- Ensure camera access is enabled in Settings > LokalChoice
+- Ensure camera access is enabled in Settings > Dropp
 - Make sure the barcode is well-lit and clearly visible
 - Try cleaning your camera lens
 - Ensure the barcode is within the scan frame
@@ -83,7 +107,7 @@ If the green scan line stops moving:
 
 ## Privacy & Data
 
-LokalChoice is designed with privacy in mind:
+Dropp is designed with privacy in mind:
 - All scan history is stored locally on your device
 - We don't collect or store personal information
 - Product data comes from the public OpenFoodFacts database
@@ -91,7 +115,7 @@ LokalChoice is designed with privacy in mind:
 
 ## Technical Requirements
 
-- iOS 15.0 or later
+- iOS 17.0 or later
 - iPhone or iPad
 - Camera access (for barcode scanning)
 - Photo library access (optional, for photo upload)
@@ -101,20 +125,22 @@ LokalChoice is designed with privacy in mind:
 
 We'd love to hear from you!
 
+**Email**: vintagevistaa@gmail.com
+
 **Feedback**: 
-If you enjoy LokalChoice, please leave a review on the App Store. Your feedback helps us improve the app!
+If you enjoy Dropp, please leave a review on the App Store. Your feedback helps us improve the app!
 
 **Feature Requests**:
 Have an idea for a new feature? Send us an email with your suggestions.
 
 ## Data Sources
 
-LokalChoice uses product data from [OpenFoodFacts](https://world.openfoodfacts.org), a free and open database of food products. Product information accuracy depends on community contributions to this database.
+Dropp uses product data from [OpenFoodFacts](https://world.openfoodfacts.org), a free and open database of food products. Product information accuracy depends on community contributions to this database.
 
 ## Frequently Asked Questions
 
-**Q: Is LokalChoice free?**
-A: Yes, LokalChoice is free with a limited number of scans per month. Premium subscription provides unlimited scans.
+**Q: Is Dropp free?**
+A: Yes. Barcode scans remain free. Free accounts include three product or brand searches each week, one five-item cart and one saved swap. Plus unlocks unlimited search and the expanded tools.
 
 **Q: Do you collect my data?**
 A: No. All data is stored locally on your device. We don't collect or track personal information.
@@ -126,11 +152,11 @@ A: We use OpenFoodFacts, a community-driven database. Not all products are inclu
 A: The camera and scanning work offline, but you need an internet connection to look up product information.
 
 **Q: How do I cancel my subscription?**
-A: Go to Settings > Apple ID > Subscriptions > LokalChoice and select Cancel Subscription.
+A: Go to Settings > Apple ID > Subscriptions > Dropp and select Cancel Subscription.
 
 **Q: What countries are supported?**
-A: LokalChoice works worldwide and includes data for products from many countries. Product availability depends on the OpenFoodFacts database.
+A: Dropp works worldwide and includes data for products from many countries. Product availability depends on the OpenFoodFacts database.
 
 ---
 
-*Last updated: February 2026*
+*Last updated: August 3, 2026*
